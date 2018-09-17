@@ -10,10 +10,10 @@ This also works kind as a **local backup system**, something I do not recommend 
 ---
 Personally, I think this app it's pretty straigthforward, but in any case, the program will guide you during the creation of a _copy_ profile.
 
-To initialize this utility, you must have installed .**NET Core**, then run inside the repository:
-´´´
-dotnet run
-´´´
+To initialize this utility, you must have installed .**NET Core**, then run inside the repository:   
+´´´   
+dotnet run   
+´´´    
 Now the program should execute with no problem.
 
 ### License
