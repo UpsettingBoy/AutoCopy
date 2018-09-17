@@ -1,0 +1,16 @@
+<!--
+Copyright (c) 2018 UpsettingBoy (Jerónimo Sánchez)
+
+This software is released under the MIT License.
+https://opensource.org/licenses/MIT
+-->
+
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2"/>
+  </ItemGroup>
+</Project>
